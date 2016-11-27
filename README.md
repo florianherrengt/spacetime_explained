@@ -116,7 +116,7 @@ Explaining this in detail requires math.
 
 To truly grasp these concepts, you need to understand the math that defines them. At best, a non-mathematical description is only an approximation with the comparison of one thing with another thing of a different kind.
 
-To begin with, have a look at the mathematical relationship between mass and energy and the sources.
+To begin with, have a look at the mathematical relationship between mass and energy.
 
 
 # Sources
