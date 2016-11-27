@@ -11,7 +11,7 @@ or maybe
 Yes, it is true! However, this usually follows with a long and complicated discussion...
 
 
-This article attempts to explain this in a simple way.
+This article attempts to explain this in a simple way. It won't be accurate and takes a lot of freedom to simplify concepts.
 
 [![teaching_physics](./teaching_physics.png)](https://xkcd.com/895/)
 
@@ -19,7 +19,7 @@ This article attempts to explain this in a simple way.
 
 ## Speed of light
 
-Light travels exactly at 300 million meters per second in every direction, the speed of light is the speed of light no matter what.
+Light travels at 300 million meters per second in every direction, the speed of light is the speed of light no matter what.
 
 Just to give you a more meaningful representation this is **186,000 miles per second** or **1.07 billion km per hour**
 
@@ -117,7 +117,6 @@ Explaining this in detail requires math.
 To truly grasp these concepts, you need to understand the math that defines them. At best, a non-mathematical description is only an approximation with the comparison of one thing with another thing of a different kind.
 
 To begin with, have a look at the mathematical relationship between mass and energy.
-
 
 # Sources
 
