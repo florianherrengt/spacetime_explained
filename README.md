@@ -8,10 +8,10 @@ or maybe
 
 > If you go next to a black hole and come back, you'll still be the same age while most of the people you know would be dead
 
-Yes, it is true! However, this usualy follows with a long and complicated discution...
+Yes, it is true! However, this usually follows with a long and complicated discussion...
 
 
-This article attemps to explain this in a simple way.
+This article attempts to explain this in a simple way.
 
 [![teaching_physics](./teaching_physics.png)](https://xkcd.com/895/)
 
@@ -19,9 +19,9 @@ This article attemps to explain this in a simple way.
 
 ## Speed of light
 
-Light travels exacly at 300 million meters per second in every direction, the speed of light is the speed of light no matter what.
+Light travels exactly at 300 million meters per second in every direction, the speed of light is the speed of light no matter what.
 
-Just to give you more meanful representation this is **186,000 miles per second** or **1.07 billion km per hour**
+Just to give you a more meaningful representation this is **186,000 miles per second** or **1.07 billion km per hour**
 
 To put that in perspective, if you could travel at the speed of light, you would be able to go around Earth in approximately seven and a half times in one second.
 
@@ -29,17 +29,17 @@ Yes, that's how fast it is.
 
 ### What am I supposed to understand? 
 
-> The light is **fast**. So fast it is difficult to understand in our daily life that when something happens we don't have the information immedially but with a small delay, the time for the light to reach our eye.
+> The light is **fast**. So fast it is difficult to understand in our daily life that when something happens we don't have the information immediately but with a small delay, the time for the light to reach our eye.
 
 ## Relativity
 
 Imagine the following situation.
 
-You stand on the side of the highway with a speed radar and mesure the speed of a car. You record 100km/h.
+You stand on the side of the highway with a speed radar and measure the speed of a car. You record 100km/h.
 
 Then, you jump into your car and drive at 80km/h.
 
-You mesure exactly the same car again and you record 20km/h.
+You measure exactly the same car again and you record 20km/h.
 
 ### What am I supposed to understand? 
 
@@ -55,7 +55,7 @@ Time has no meaning or context without human perspective.
 
 ### What am I supposed to understand? 
 
-> It's hard to imagine time behaving in a different way since we are experiementing time exclusively on Earth.
+> It's hard to imagine time behaving in a different way since we are experimenting time exclusively on Earth.
 
 ## Spacetime
 
@@ -73,8 +73,8 @@ If you ran 100 meters in 1 minute, you would have moved of 100 meters in space *
 
 On the other hand, if while you are reading this, you're not moving in space, but time is still flying. So you're moving only in time, not space.
 
-Then you decide to do some exercice and go for a run.
-You are still moving in time, but now alos moving in space. Because time and space are not 2 seperated things and depends of each other, one or the other has to slow down. 
+Then you decide to do some exercise and go for a run.
+You are still moving in time, but now also moving in space. Because time and space are not 2 separated things and depends of each other, one or the other has to slow down. 
 
 You are moving in space, time has to slow down.
 
@@ -93,7 +93,7 @@ Information can only travel through space at the speed of light.
 
 When you are looking at fireworks, the rocket explodes and the light is traveling through space to your eye. It's only when the light hits you your eye that you get the information: "The rocked has exploded"
 
-> Gravity bends spcace and information can only travel through space at the speed of light
+> Gravity bends space and information can only travel through space at the speed of light
 > 
 > Gravitational dilation is a similar concept - you've stretched and bent space with gravity, so you're now going faster through that space and slower through time.
 
@@ -104,13 +104,13 @@ When you are looking at fireworks, the rocket explodes and the light is travelin
 
 > _The yellow line is "longer" on the second representation because the space is "bended" so the light take more time to reach Earth_
 
-To understand gravity I recommand watching this video
+To understand gravity I recommend watching this video
 
 [![Gravity_Visualized](./Gravity_Visualized.png)](https://www.youtube.com/watch?v=MTY1Kje0yLg)
 
 > _Gravity Visualized_
 
-# I kinda understood but ... not really
+# I kind of understood but ... not really
 
 Explaining this in detail requires math. 
 
