@@ -11,11 +11,21 @@ or maybe
 Yes, it is true! However, this usually follows with a long and complicated discussion...
 
 
-This article attempts to explain this in a simple way. It won't be accurate and takes a lot of freedom to simplify concepts.
+This article attempts to explain this in a simple way. It won't be a deep dive and takes a lot of freedom to simplify concepts.
 
 [![teaching_physics](./teaching_physics.png)](https://xkcd.com/895/)
 
-## The basics
+This is all about **Time dilation.**
+
+From Wikipedia:
+
+_In the theory of relativity, time dilation is a difference of elapsed time between two events as measured by observers either moving relative to each other or differently situated from a gravitational mass or masses._
+
+_Time dilation explains why two working clocks will report different times after different accelerations_
+
+Before we jump into it, there are few concepts we need to cover.
+
+# The basics
 
 ## Speed of light
 
@@ -117,6 +127,24 @@ Explaining this in detail requires math.
 To truly grasp these concepts, you need to understand the math that defines them. At best, a non-mathematical description is only an approximation with the comparison of one thing with another thing of a different kind.
 
 To begin with, have a look at the mathematical relationship between mass and energy.
+
+# Conclusion
+
+Time and speed of light are both tough concept to visualise. 
+
+Most of us are experiencing time only on Earth. It's hard to imagine it in a different way.
+
+We imagine time the way we know it. 
+We are moving in both time and space but we are not capable to move at high enough speed to notice it ourselves.
+
+# More mind bending stories
+
+[Imaginary time](https://en.wikipedia.org/wiki/Imaginary_time)
+
+[Extra dimensions](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions)
+
+[Loop quantum gravity](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
+
 
 # Sources
 
