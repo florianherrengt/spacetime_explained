@@ -43,7 +43,7 @@ You measure exactly the same car again and you record 20km/h.
 
 ### What am I supposed to understand? 
 
-> The speed of an object depends of your own speed
+> There is no absolute speed. The speed of an object is relative to another object. In that case, you and the other car.
 
 
 ## Time
@@ -63,7 +63,7 @@ The word "spacetime" comes from the concept of the 4-dimensional universe. You h
 
 ### What am I supposed to understand? 
 
-> You're not moving only in space but I space and time simultaneously. 
+> You're not moving only in space but in space and time simultaneously. 
 
 # How speed is affecting time?
 
@@ -71,7 +71,7 @@ Remember the car example? The tricky thing with time dilation is that when we sa
 
 If you ran 100 meters in 1 minute, you would have moved of 100 meters in space **and** 1 minute in time.
 
-On the other hand, if while you are reading this, you're not moving in space, but time is still flying. So you're moving only in time, not space.
+On the other hand, while you are reading this, you're not moving in space, but time is still flying. So you're moving only in time, not space.
 
 Then you decide to do some exercise and go for a run.
 You are still moving in time, but now also moving in space. Because time and space are not 2 separated things and depends of each other, one or the other has to slow down. 
@@ -91,11 +91,11 @@ However, the effect isn't noticeable on our scale because we're all moving throu
 
 Information can only travel through space at the speed of light.
 
-When you are looking at fireworks, the rocket explodes and the light is traveling through space to your eye. It's only when the light hits you your eye that you get the information: "The rocked has exploded"
+When you are looking at fireworks, the rocket explodes and the light is traveling through space to your eye. It's only when the light hits your eye that you get the information: "The rocked has exploded"
 
 > Gravity bends space and information can only travel through space at the speed of light
 > 
-> Gravitational dilation is a similar concept - you've stretched and bent space with gravity, so you're now going faster through that space and slower through time.
+> A black hole stretched and bent space with gravity, so you're now going faster through that space and slower through time.
 
 ![Spacetime_curvature](./Spacetime_curvature.png)
 > _Two-dimensional projection of a three-dimensional analogy of spacetime curvature described in general relativity_
